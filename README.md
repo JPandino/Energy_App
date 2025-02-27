@@ -13,6 +13,7 @@ O aplicativo é uma ferramenta que oferece ao usuário uma análise da máxima r
 de acordo com as características da usina, condições de mercado e vazão afluente nos reservatórios, que são fornecidas
 ao aplicativo inicialmente. Além da receita máxima, informações de custo e sobre a operação da usina também são apresentadas.<br>
 
+
 ![image](https://github.com/user-attachments/assets/7641449b-4dce-477a-af64-70464dfeb391)
 
 ![image](https://github.com/user-attachments/assets/35381c89-b081-4da4-87ea-5824ce4b01c2)
