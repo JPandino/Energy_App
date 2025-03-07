@@ -7,7 +7,7 @@ import plotly.express as px
 from optimization.milp import milp_optimization
 
 app = Flask(__name__)
-app.secret_key = 'supersecretkey'
+app.secret_key = 'secretkey'
 
 @app.route("/", methods=['GET', 'POST'])
 def index():
