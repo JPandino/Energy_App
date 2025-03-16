@@ -1,5 +1,5 @@
-# Web-App-MILPM-PSH (daily)
-Aplicação Web com o framework Flask para uso simplificado da ferramenta de otimização "MILPM-PSH"
+# Web App PLIM_UHR (daily)
+Aplicação Web com o framework Flask para uso simplificado da ferramenta de otimização "PLIM_UHR"
 
 O aplicativo em questão emprega um modelo de otimização da comercialização de energia no Ambiente de Contratação Livre (ACL) e no Mercado de Curto Prazo (MCP) para Usinas Hidrelétricas Reversíveis (UHR).
 As UHR...
