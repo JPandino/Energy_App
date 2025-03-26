@@ -1,8 +1,6 @@
 # Web App PLIM_UHR (daily)
-Aplicação Web com o framework Flask para uso simplificado da ferramenta de otimização "PLIM_UHR"
-
-O aplicativo em questão emprega um modelo de otimização da comercialização de energia no Ambiente de Contratação Livre (ACL) e no Mercado de Curto Prazo (MCP) para Usinas Hidrelétricas Reversíveis (UHR).
-
+Aplicação Web com o framework Flask para uso simplificado da ferramenta de otimização "PLIM_UHR".<br>
+O aplicativo em questão emprega um modelo de otimização da comercialização de energia no Ambiente de Contratação Livre (ACL) e no Mercado de Curto Prazo (MCP) para Usinas Hidrelétricas Reversíveis (UHR).<br>
 A modelagem leva em consideração a individualização das máquinas da UHR, discretização horária e um horizonte de planejamento diário. A função objetivo e as restrições são representadas através de relações matemáticas lineares, que caracterizam um problema de programação linear inteira mista, já que algumas das variáveis de decisão são inteiras, e outras contínuas. 
 
 **Link do APP:** https://optimizeruhr.pythonanywhere.com/
